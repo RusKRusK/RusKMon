@@ -59,12 +59,10 @@ config.jsonの各文字列に、対応する値を各自で入力してくださ
     "starboardChannelId": "",
     "logThreadId": ""
 }
-
+```
 Botの初回実行時には、スラッシュコマンドを読み込む必要がありますので、下記を実行してください。
 ```
 node ./commandReg.js
-```
-
 ```
 下記を実行してください。botが立ち上がります。
 ```
